@@ -43,7 +43,7 @@ function DatosHist(){
                     contador_hist = contador_hist + 1
                     element.innerHTML+=
                     
-                    ` <a href="/TFG_PABLO/cliente/pages/datoshistoricos.html?id=${aux.id}">Dato histórico ${contador_hist}</a> <br>
+                    ` <a href="https://pab1998.github.io/pages/datoshistoricos.html?id=${aux.id}">Dato histórico ${contador_hist}</a> <br>
                    
                  
                     `
