@@ -1,7 +1,7 @@
 {
     "name":"Lisimetros",
     "short_name":"Lisimetros",
-    "background_color":"#fff",
+    "background_color":"#1d51fa",
     "theme_color":"#fff",
     "orientation":"portrait",
     "display":"standalone",
