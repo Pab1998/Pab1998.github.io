@@ -1,8 +1,8 @@
 {
     "name":"Lisimetros",
     "short_name":"Lisimetros",
-    "background_color":"#fff",
-    "theme_color":"#1d51fa",
+    "background_color":"#1d51fa",
+    "theme_color":"#4d4d5c",
     "orientation":"portrait",
     "display":"standalone",
     "start_url":"./?utm_source=web_app_manifest",
